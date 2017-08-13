@@ -81,11 +81,11 @@ proxy "/author/#{config.casper[:author][:name].parameterize}.html",
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  blog.prefix = "articles"
+  # blog.prefix = "articles"
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
-  #blog.sources = "articles/{title}"
+  blog.sources = "articles/{year}-{month}-{day}-{title}"
   blog.taglink = "tag/{tag}.html"
   blog.layout = "post"
   # blog.summary_separator = /(READMORE)/
