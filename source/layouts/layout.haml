@@ -40,6 +40,18 @@
     = partial('shared/navigation')
 
     .site-wrapper
+      / nuffnang
+      :javascript
+        nuffnang_bid = "3859129d647a2184a3212943ae57587d";
+        document.write( "<div id='nuffnang_lb'></div>" );
+        (function() { 
+                var nn = document.createElement('script'); nn.type = 'text/javascript';    
+                nn.src = 'https://synad3.nuffnang.com.ph/lb.js';    
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling);
+        })();
+      / nuffnang
+
+
       = yield
 
       %footer.site-footer.clearfix
