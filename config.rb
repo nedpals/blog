@@ -4,12 +4,13 @@
 
 config[:casper] = {
   blog: {
-    url: 'http://thisis.nedpals.xyz',
+    url: 'https://thisis.nedpals.xyz',
     name: "Ned's blog",
     description: 'tech, tech, and more',
     date_format: '%d %B %Y',
     navigation: true,
-    logo: nil # Optional
+    logo: nil, # Optional,
+    google_site_verification: 'eh9AuBo4ZX_xCLc8_IYH3PetQBjt3pcBfaTXABf7QRc'
   },
   author: {
     name: 'Ned P.',
@@ -123,6 +124,10 @@ activate :sprockets
 #     "Helping"
 #   end
 # end
+
+set :url_root, 'https://thisis.nedpals.xyz'
+activate :search_engine_sitemap
+
 
 # Build-specific configuration
 configure :build do

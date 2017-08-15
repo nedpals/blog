@@ -7,6 +7,7 @@
     %meta{name: :viewport, content: 'width=device-width, initial-scale=1.0'}
     %meta{'http-equiv' => 'X-UA-Compatible', content: 'IE=edge'}
     %meta{name: 'HandheldFriendly', content: 'True'}
+    %meta{name:"google-site-verification", content: blog_settings.google_site_verification}
 
     -# Open Graph Tags
     %meta{property: "og:site_name", content: blog_settings.name}
@@ -40,16 +41,12 @@
     = partial('shared/navigation')
 
     .site-wrapper
-      / nuffnang
+      %script{:async => "", :src => "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"}
+      / My top ad
+      %ins.adsbygoogle{"data-ad-client" => "ca-pub-4342552490275892", "data-ad-format" => "auto", "data-ad-slot" => "1223015512", :style => "display:block"}
       :javascript
-        nuffnang_bid = "3859129d647a2184a3212943ae57587d";
-        document.write( "<div id='nuffnang_lb'></div>" );
-        (function() { 
-                var nn = document.createElement('script'); nn.type = 'text/javascript';    
-                nn.src = '//synad3.nuffnang.com.ph/lb.js';    
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling);
-        })();
-      / nuffnang
+        (adsbygoogle = window.adsbygoogle || []).push({});
+
 
 
 
