@@ -1,0 +1,48 @@
+baseURL: "https://thisis.nedpals.xyz/"
+languageCode: "en-us"
+title: "nedpals.xyz"
+theme: "base16"
+# paginate: 5
+copyright: "All rights reserved - 2016"
+buildDrafts: false
+pygmentsuseclasses: true
+canonifyurls: true
+
+permalinks:
+  post: /:year/:month/:title/
+
+params:
+  description: "tech, tech, and more"
+  author: "ned"
+  creativeCommons: "by-sa"
+  hideHUGOSupport: false
+  githubName: ""
+  twitterName: "npned"
+
+
+author:
+  ned:
+    id: "ned"
+    firstName: "Ned"
+    lastName: "P."
+    displayName: "Ned"
+    location: "Somewhere in Davao, PH"
+    bio: "trying to leave things better than I found them."
+    thumbnail: "/img/avatar.jpg"
+
+sharing:
+  twitter: true
+  facebook: true
+  google-plus: false
+  pinterest: false
+
+menu:
+  main:
+    - name: "Blog"                          # name that appears in the menu list
+      weight: -120                          # order it appears more negative == closer to top of list
+      identifier: "blog"                    # TODO: not sure what this is responsible for
+      url: "/"                              # link address to use when user clicks on menu option
+    - name: "About"
+      weight: -110
+      identifier: "about"
+      url: "/about"
