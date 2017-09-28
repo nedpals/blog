@@ -10,7 +10,6 @@ tags:
 - javascript
 - js
 - webdev
-author: ned
 ---
 <p>I finished learning Javascript on Codecademy tonight. It was an achievement for me and was pretty quick and easy to understand thanks to my previous learnings from other languages. To be honest, I don&rsquo;t want to learn JS despite years of using it for my web projects because I underestimate due to its syntax and my hate on semicolons until I realized that JS is a very essential language and must be learned by those who want to be a web developer like me.</p>
 <p>In the past, I used to just copy and paste snippets from different sites such as StackOverflow and now I can do things on my own. So happy :)</p>

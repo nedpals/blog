@@ -14,7 +14,6 @@ tags:
 - ruby on rails
 - semver
 - tutorial
-author: ned
 ---
 <p>Hours ago, I was searching for ways to put a version number to my Rails app. SemVer is good but I want other way of versioning the app so I found this <a href="http://minhajuddin.com/2011/07/25/easily-show-current-version-number-of-your-app-stackoverflow-style/">tutorial</a>.<br />
 However, it didn’t work at all so I fixed it. Here’s the code:</p>

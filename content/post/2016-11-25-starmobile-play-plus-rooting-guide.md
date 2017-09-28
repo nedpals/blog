@@ -13,7 +13,6 @@ tags:
 - spreadtrum
 - starmobile
 - starmobile play plus
-author: ned
 ---
 <p>So I got this Php2390 phone called the Play Plus, a budget Marshmallow phone by Starmobile. It has decent features but you know what when you use this phone in real life you will gonna lose your patience with this one because it has a <b>very crappy performance</b>.&nbsp;</p>
 <figure class="tmblr-full"><img src="/images/uploads/tumblr_inline_oh73cdM9OL1uz3jh6_540.jpg" alt="image" /></figure>

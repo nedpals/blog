@@ -10,7 +10,6 @@ tags:
 - linux
 - operating system
 - ubuntu
-author: ned
 ---
 <figure class="tmblr-full"></figure>
 <p>A couple of weeks ago, I installed Ubuntu 16.04 into my 2013 HP laptop alongside Windows 7. I installed it because I like to program some stuff and also try something fresh since I’m a Windows user and performance of 7 got worse in this PC. Here’s my experience and views when I used Linux.</p>

@@ -10,7 +10,6 @@ tags:
 - dropbox
 - dropbox paper
 - technology
-author: ned
 ---
 <p>I worked at a school paper and our way of keeping articles has been my main concern every single time. We lose this, we lose that, the handwriting sucks, too small to read, you know the struggle so its really really sucks. Although some of them are written in Microsoft Office, like, not all of them but can we just keep those stuff in a Word format instead right? Heck yeah but the docx gathering thing is also a mess. Proofread articles may be stored in someones computer and worse of all, I can&rsquo;t get the article because of poor or lack of internet connection from the computers owner. Having to store content on the web is my dream as it is allow us to access it easily. </p>
 <p>

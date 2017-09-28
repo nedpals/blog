@@ -11,7 +11,6 @@ tags:
 - oneplus
 - oneplus 3
 - oneplus 3t
-author: ned
 ---
 <p>[youtube https://www.youtube.com/watch?v=1fFx4oMQ0jc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque&amp;w=500&amp;h=281]</p>
 <p>The <a href="https://oneplus.net/3t">OnePlus 3T</a> was announced yesterday and at first I was like…</p>

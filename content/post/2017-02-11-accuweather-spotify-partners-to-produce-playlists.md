@@ -7,7 +7,6 @@ status: publish
 categories:
 - Tech
 tags: []
-author: ned
 ---
 <p><i>Lagi namang umuulan&hellip;</i></p>
 <p>Huehuehue<i><br /></i></p>

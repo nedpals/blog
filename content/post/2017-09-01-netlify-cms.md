@@ -6,7 +6,6 @@ category:
 tags:
   - netlify cms
   - blogging
-author: ned
 ---
 Before I started moving back my site to static publishing, there is one thing thats holds me and also the rest of other users into diving to static: the lack of CMS.
 

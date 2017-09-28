@@ -11,7 +11,6 @@ tags:
 - site review
 - sunstar
 - sunstar.com.ph
-author: ned
 ---
 <p>I don’t read <a href="http://sunstar.com.ph">Sunstar.com.ph</a> every day but just recently I read an article at their website about <a href="http://www.sunstar.com.ph/davao/business/2017/01/29/p1-b-nccc-mall-buhangin-track-522751#">a new mall soon to be opened at my place</a> and suddenly got my “design”-sensitive eyes in beast mode when I first viewed it.</p>
 {{< figure src="/images/uploads/tumblr_inline_okqspqtFk01uz3jh6_540.png" >}}

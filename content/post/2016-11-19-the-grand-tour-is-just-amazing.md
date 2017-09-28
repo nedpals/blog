@@ -9,7 +9,6 @@ categories:
 tags:
 - the grand tour
 - top gear
-author: ned
 ---
 {{< figure src="/images/uploads/tumblr_inline_ogviupvH651uz3jh6_540.png" >}}
 <p>Yesterday I watched The Grand Tour and I was excited about it. The boys I love (no homo here) from the old Top Gear are back. The friendship, the jokes, the excitement, the cars, and all the memories from the old TG are coming back again and I must say I was really enjoyed<br />

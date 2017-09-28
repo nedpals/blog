@@ -8,7 +8,6 @@ tags:
   - crystal language
   - github
   - open source
-author: ned
 ---
 Hi! It's been a while since my very last post so I decided to get back again despite having few visitors in this blog :( .
 

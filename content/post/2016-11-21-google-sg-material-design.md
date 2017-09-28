@@ -11,7 +11,6 @@ tags:
 - google.com
 - material design
 - web design
-author: ned
 ---
 <p>[gallery]</p>
 <p>I’m in a VPN right now connecting to Singapore servers and I noticed a minor change in Google’s SG page which is very different than any Google page I encountered. <i><b><br />
