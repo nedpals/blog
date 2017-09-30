@@ -1,8 +1,8 @@
 baseURL: "https://thisis.nedpals.xyz/"
 languageCode: "en-us"
-title: "nedpals.xyz"
+title: "neds blog"
 theme: "hugo-type-theme"
-disqusShortname: "nedpals`"
+disqusShortname: "nedpals"
 paginate: 5
 buildDrafts: false
 canonifyurls: true
