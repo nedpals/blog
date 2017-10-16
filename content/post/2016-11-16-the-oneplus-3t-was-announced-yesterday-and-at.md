@@ -12,7 +12,7 @@ tags:
 - oneplus 3
 - oneplus 3t
 ---
-<p>[youtube https://www.youtube.com/watch?v=1fFx4oMQ0jc?feature=oembed&amp;enablejsapi=1&amp;origin=http://safe.txmblr.com&amp;wmode=opaque&amp;w=500&amp;h=281]</p>
+{{< youtube 1fFx4oMQ0jc >}}
 <p>The <a href="https://oneplus.net/3t">OnePlus 3T</a> was announced yesterday and at first I was like…</p>
 <blockquote><p>
 Holy shit the newly revamped phone was amazing!</p></blockquote>
@@ -23,5 +23,5 @@ Holy shit the newly revamped phone was amazing!</p></blockquote>
 </i><i>According to OnePlus, the 3T was devised after the launch of the OnePlus 3, and it was a decision made in part because of the intricacies of the company’s business model of limited supply and also because they had continuously worked on advancing the hardware, and they felt that they could implement these improvements into a new device and optimize their line-up.&nbsp;</i></p></blockquote>
 <p>For me, they should haven’t release this today but instead in the next year as OnePlus 4 as a lot of its users will be pissed off and the OnePlus 3 is a great phone for 2016 already. It is <b>more than enough </b>of what a smartphone should be in 2016 and it has satisfied a lot of its users. But as long as the software updates are being continued, owners shouldn’t be worried about that and that’s one great thing about OnePlus until now: <b>they never settle</b>.</p>
 <p>Oh well, another new lesson for OnePlus.</p>
-<figure class="tmblr-full"><img src="/images/uploads/tumblr_inline_ograzkGytg1uz3jh6_500.gif" alt="image" /></figure>
+{{< figure src="/images/uploads/tumblr_inline_ograzkGytg1uz3jh6_500.gif" >}}
 <p class="attribution">(<span>Source:</span> <a href="https://www.youtube.com/">https://www.youtube.com/</a>)</p>
