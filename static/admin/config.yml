@@ -15,7 +15,26 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: "false"}
       - {label: "Category", name: "category", widget: "list" }
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "featureimage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "settings"
+    label: "Settings"
+    editor:
+      preview: false
+    files:
+      - name: "general"
+        label: "Site Settings"
+        file: "config.yaml"
+        description: "General Site Settings"
+        fields:
+          - { label: "Base URL", name: "baseURL", widget: "string" }
+          - { label: "Language Code", name: "languageCode", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Theme", name: "theme", widget: "string" }
+          - { label: "Disqus Shortname", name: "disqusShortname", widget: "string" }
+          - { label: "No. of Posts to Paginate", name: "paginate", widget: "number" }
+          - { label: "Build drafts?", name: "buildDrafts", widget: "boolean" }
+          - { label: "Canonify URLs", name: "Canonifyurls", widget: "boolean" }
