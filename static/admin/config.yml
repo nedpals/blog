@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Draft", name: "draft", widget: "boolean", default: "false"}
       - {label: "Category", name: "category", widget: "list" }
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Featured Image", name: "featureimage", widget: "image"}
+      - {label: "Featured Image", name: "featureimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "settings"
     label: "Settings"
