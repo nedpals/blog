@@ -15,7 +15,7 @@ tags:
 - starmobile play plus
 ---
 <p>So I got this Php2390 phone called the Play Plus, a budget Marshmallow phone by Starmobile. It has decent features but you know what when you use this phone in real life you will gonna lose your patience with this one because it has a <b>very crappy performance</b>.&nbsp;</p>
-<figure class="tmblr-full"><img src="/images/uploads/tumblr_inline_oh73cdM9OL1uz3jh6_540.jpg" alt="image" /></figure>
+{{< figure src="/images/uploads/tumblr_inline_oh73cdM9OL1uz3jh6_540.jpg" alt="image" >}}
 <p>So I was finding for hacks for this phone in order to solve this problem, but none of those things have solved my problem. And here’s what I did in order to hacked and get rooted.</p>
 <h2>1. Install Custom Recovery</h2>
 <p>The problem with all those custom recoveries made for the SC7731/C chipset is that it is intended for users who use the Lollipop firmware and those are not compatible with the Marshmallow firmware. So what I did was to port the Cyanogen Recovery and not the TWRP recovery because the touchscreen doesn’t work when I use it.</p>

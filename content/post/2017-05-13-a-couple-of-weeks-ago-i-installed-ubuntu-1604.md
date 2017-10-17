@@ -11,7 +11,6 @@ tags:
 - operating system
 - ubuntu
 ---
-<figure class="tmblr-full"></figure>
 <p>A couple of weeks ago, I installed Ubuntu 16.04 into my 2013 HP laptop alongside Windows 7. I installed it because I like to program some stuff and also try something fresh since I’m a Windows user and performance of 7 got worse in this PC. Here’s my experience and views when I used Linux.</p>
 <ol>
 <li><b>Tons of great programs but few are rock solid. </b>- I expect the software from the open source community to be very stable and powerful like the proprietary programs from Adobe. GIMP is very confusing. LibreOffice is more great than ever. Krita is a very awesome painting app though. But the rest I’ve seen such as the Non-linear video editors are weird and not yet confident to compete with Premiere nor Vegas Pro. In the other side, I’m happy that the progress of these programs are very fast and have significant improvements so these are gonna be expected to be great hopefully few years from now.</li>

@@ -13,8 +13,7 @@ Hi! It's been a while since my very last post so I decided to get back again des
 
 A couple of months ago, I launched "**Sharn**" - my first ever open source project written in Crystal that tries to solve the problems I had with the Shards dependency manager.  *Sort of Yarn for Crystal.*
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What sharn can really do ryt now<br>- see whats installed<br>- add/removes deps<br>- still no automatic install<a href="https://t.co/tl9JbsMEpY">https://t.co/tl9JbsMEpY</a><a href="https://twitter.com/hashtag/crystallang?src=hash">#crystallang</a> <a href="https://t.co/HOG4GgcYtZ">pic.twitter.com/HOG4GgcYtZ</a></p>— nedpals. (@npned) <a href="https://twitter.com/npned/status/884021715755335680">July 9, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 884021715755335680 >}}
 
 (Got noticed by senpai [Serdar](https://twitter.com/sdogruyol)! wowwww)
 
