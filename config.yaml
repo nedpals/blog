@@ -31,5 +31,9 @@ sharing:
 
 menu:
   nav:
-    - name: "Portfolio"                          # name that appears in the menu list                  # order it appears more negative == closer to top of list
-      url: "https://nedpals.gitlab.io"                              # link address to use when user clicks on menu option
+    - name: "Portfolio"
+      url: "https://nedpals.xyz"
+    - name: "Patreon"
+      url: "https://patreon.com/dotgeeq"
+    - name: "YouTube"
+      url: "https://youtube.com/dotgeeq"
