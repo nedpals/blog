@@ -11,13 +11,13 @@ I love reading Manga. It has a variety of genres to choose from and even though 
 
 Last two weeks ago, I decided not to join the film project for our Arts subject and instead create a manga with more than five pages and no restrictions (i guess). You may think that I'm gonna be making a hentai in the first place but nope I suck at drawing dicks and _vagenes_ so it's kinda weird to make. Anyway, here's my experience and the process I did in order to make a short homemade manga.
 
-\### Not so much fun info
+### Not so much fun info
 
-The term \*\*manga\*\* is a comic created in Japan so  technically I'm only creating a comic since I ain't Japanese. But the fact that most of the elements were taken from the Japanese way, it is best and well suited to call it \*\*manga\*\* instead.
+The term **manga** is a comic created in Japan so  technically I'm only creating a comic since I ain't Japanese. But the fact that most of the elements were taken from the Japanese way, it is best and well suited to call it **manga** instead.
 
 Okay, back to studio.
 
-\## Story Brainstorming
+## Story Brainstorming
 
 This is a tricky part. I never like to create an original one. If I we're to create one, they we're more shittier than those wattpad fiction stories about their favorite gay couples. At my first week, I decided to use the script of our animation project. Everyone in the group would call me as "unoriginal" so I didn't care about it but then I realized that a three week deadline with a story like this will not be finished on time so I devised a new story based on it. 
 
@@ -29,10 +29,10 @@ Thats not exactly the plot but it was pretty much it. And when the all the parts
 
 Creating a dialogue is not difficult to make if you have already the flow of the story and also read several chapters of a manga. Thanks to my pure boredom, the script/dialogue of the whole story was finished in just two hours and was estimated to have 10-12 pages. That's enough already and we can now proceed in creating the art.
 
-\## Finding a House (Setting)
+## Finding a House (Setting)
 
 So the story takes place in a house but not really just an ordinary house since the family is let's say financially stable but not kinda rich. So I decided to use the wonderful Pinterest app to find 3d model house designs that can be our perfect candidate for the manga's setting. I found one that's balanced and at the same time has a floor plan so it's definitely a plus when it comes in the accuracy of the place in the manga.
 
-\## Panels
+## Panels
 
 I used Krita, an open source painting software in creating my manga that's great and easy to use.
