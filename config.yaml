@@ -13,6 +13,7 @@ permalinks:
 params:
   description: "tech, tech, and more"
   author: "Ned"
+  headerText: "hello world"
   gravatar: "npdoesmc@gmail.com"
   copyright: "Released under the MIT license<br>Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)"
 

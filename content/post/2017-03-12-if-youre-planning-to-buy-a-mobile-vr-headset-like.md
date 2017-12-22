@@ -11,6 +11,7 @@ tags:
 - Virtual reality
 - vr
 - vrbox
+featureimage: /images/uploads/tumblr_omph0n0lzb1vkv7yxo1_1280.jpg
 ---
 {{< figure src="/images/uploads/tumblr_omph0n0lzb1vkv7yxo1_1280.jpg" >}}
 <p>If you’re planning to buy a mobile VR headset like the Google Cardboard, consider first these if your phone supports:</p>
