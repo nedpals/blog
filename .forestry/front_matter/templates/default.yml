@@ -1,3 +1,25 @@
 ---
+pages:
+- post/making-a-manga.md
 hide_body: false
-fields: []
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+  default: Invalid date
+- type: tag_list
+  name: category
+  label: Category
+- type: tag_list
+  name: tags
+  label: Tags
+- type: file
+  label: Featured image
+  name: featureimage
