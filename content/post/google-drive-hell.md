@@ -16,4 +16,4 @@ Right now, I'm using Ubuntu as my daily driver for my laptop which happens to be
 
 ## Why not build your own?
 
-If you suggest I should build my own instead or used those ones found in GitHub, then I would say no. No because it's a waste of time to develop and a headache to maintain due to rate limits, bug, and etc. The API's are a bit too complex for me to put into a simple application. Also, this so called "**third world**" problem shouldn't be big deal to me because I don't really much use it everyday and the network is pretty slow so I cannot rely to put big files there so I just use it for photo backups whatsoever.
+If you suggest I should build my own instead or used those ones found on GitHub, then I would say no. No because it's a waste of time to develop and a headache to maintain due to rate limits, bug, and etc. The API's are a bit too complex for me to put into a simple application. Also, this so called "**third world**" problem shouldn't be big deal to me because I don't really much use it everyday and the network is pretty slow so I cannot rely to put big files there so I just use it for photo backups whatsoever.
