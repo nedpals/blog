@@ -1,40 +1,37 @@
-baseURL: "https://thisis.nedpals.xyz/"
-languageCode: "en-us"
-title: "neds blog"
-theme: "hugo-type-theme"
-disqusShortname: "nedpals"
+---
+baseURL: https://thisis.nedpals.xyz/
+languageCode: en-us
+title: neds blog
+theme: hugo-type-theme
+disqusShortname: nedpals
 paginate: 5
 buildDrafts: false
 canonifyurls: true
-
-permalinks:
-  post: /:year/:month/:title/
-
+menu:
+  nav:
+  - name: YouTube
+    url: https://youtube.com/dotgeeq
+  - name: Patreon
+    url: https://patreon.com/dotgeeq
+  - name: Portfolio
+    url: https://nedpals.xyz
 params:
-  description: "tech, tech, and more"
-  author: "Ned"
-  headerText: "hello world"
-  gravatar: "npdoesmc@gmail.com"
-  copyright: "Released under the MIT license<br>Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)"
-
+  author: Ned
+  copyright: Released under the MIT license<br>Powered by [Hugo](//gohugo.io/) with
+    the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)
+  description: tech, tech, and more
+  gravatar: npdoesmc@gmail.com
+  headertext: ''
   social:
-    rss: true
+    github: nedpals
+    gitlab: nedpals
     homepage: true
-    github: "nedpals"
-    gitlab: "nedpals"
-    twitter: "npned"
-
+    rss: true
+    twitter: npned
+permalinks:
+  post: "/:year/:month/:title/"
 sharing:
   twitter: true
   facebook: true
   google-plus: false
   pinterest: false
-
-menu:
-  nav:
-    - name: "Portfolio"
-      url: "https://nedpals.xyz"
-    - name: "Patreon"
-      url: "https://patreon.com/dotgeeq"
-    - name: "YouTube"
-      url: "https://youtube.com/dotgeeq"
