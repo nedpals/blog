@@ -1,0 +1,36 @@
+{
+    "source": "content",
+    "destination": "build",
+    "clean": true,
+    "plugins": [ 
+        { "metalsmith-markdown": true },
+        {
+            "metalsmith-collections": {
+                "posts": {
+                    "pattern": "posts/*.md"
+                },
+                "pages": {
+                    "pattern": "*.md"
+                }
+            }
+        },
+        {
+            "metalsmith-layouts": {
+                "directory": "layouts",
+                "engine": "ejs",
+                "pattern": "*.ejs"
+            }
+        },
+        { 
+            "metalsmith-permalinks": {
+                "relative": false,
+                "linksets": [{
+                    "match": { "collection": "posts" },
+                    "pattern": ":date/:title",
+                    "date": "YYYY/MM"
+                }]
+            } 
+        }
+    ]
+
+}

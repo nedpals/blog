@@ -28,6 +28,7 @@ params:
     homepage: true
     rss: true
     twitter: npned
+    instagram: nedcodes
 permalinks:
   post: "/:year/:month/:title/"
 sharing:
