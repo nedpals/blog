@@ -1,8 +1,8 @@
 +++
-category = []
-date = "2018-01-20T21:32:27+00:00"
+category = ["And more"]
+date = "2018-01-20T21:32:27Z"
 featureimage = ""
-tags = []
+tags = ["batoto", "announcement", "sad"]
 title = "Goodbye Bato.to"
 
 +++
