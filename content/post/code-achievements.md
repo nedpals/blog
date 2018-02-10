@@ -1,8 +1,8 @@
 +++
-category = []
+category = ["Tech"]
 date = "2018-01-17T04:58:20+08:00"
 featureimage = ""
-tags = []
+tags = ["2017", "achievements", "javascript", "crystal", "code", "software"]
 title = "Code Achievements"
 
 +++
