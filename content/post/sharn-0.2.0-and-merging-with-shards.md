@@ -6,7 +6,7 @@ tags = []
 title = "Sharn 0.2.0"
 
 +++
-![](/images/uploads/2018/02/10/Screenshot from 2018-02-05 20-49-18.png)
+{{< figure src="/images/uploads/Screenshot from 2018-02-05 20-49-18.png" >}}
 
 Hello guys! I am back for another blog post about [Sharn](https://github.com/nedpals/sharn) - my first open source project written in Crystal, talking about it's first ever stable release and a good news to all of you.
 
@@ -22,7 +22,7 @@ This is very exciting for me as this will change the way people manage their pro
 
 On the other side, it doesn't mean I will stop the project after merging it. Sharn will continue to evolve by experimenting features such as running scripts (similar to `npm run`) to anything that is related to post-installation of shards in order to have the best package management experience for Crystal developers.
 
-![](/images/uploads/2018/02/10/Screenshot from 2018-02-05 20-50-42.png)
+{{< figure src="/images/uploads/Screenshot from 2018-02-05 20-50-42.png" >}}
 
 That's it for today. Don't forget to try and leave a star for Sharn by visiting [https://github.com/nedpals/sharn](https://github.com/nedpals/sharn) and if you have problems, please file an issue.
 
