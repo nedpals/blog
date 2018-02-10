@@ -1,8 +1,8 @@
 +++
-category = []
+category = ["Tech"]
 date = "2018-02-10T08:06:27Z"
 featureimage = ""
-tags = []
+tags = ["crystal", "programming", "software", "announcement", "sharn"]
 title = "Sharn 0.2.0"
 
 +++
