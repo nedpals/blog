@@ -8,9 +8,11 @@ title = "Sharn 0.2.0"
 +++
 {{< figure src="/images/uploads/Screenshot from 2018-02-05 20-49-18.png" >}}
 
-Hello guys! I am back for another blog post about [Sharn](https://github.com/nedpals/sharn) - my first open source project written in Crystal, talking about it's first ever stable release and a good news to all of you.
+Hello guys! I am back for another blog post about Sharn - my first open source project written in Crystal, talking about it's first ever stable release and a good news to all of you.
 
-Four days ago, I've released Sharn [0.2.0](https://github.com/nedpals/sharn/releases/tag/0.2.0) - the first [`cli` shard's module importation](https://github.com/mosop/cli/wiki/Making-Command-Classes-DRY).
+Four days ago, I've released Sharn 0.2.0 - the first ever stable release which means you can now use it safely and in production! This includes adding of developmentDependencies into your project's shard.yml file, optimizing all of the four commands (add, rm, install, update), and some improvements in repo detection.
+
+Aside from that, I've made the code base more easier to manage by putting all helpers and commands into it's own separate files and taking advantage of the [`cli` shard's module importation](https://github.com/mosop/cli/wiki/Making-Command-Classes-DRY).
 
 While it lacks error handling and proper documentation, this will be fixed in the later release.
 
@@ -27,3 +29,4 @@ On the other side, it doesn't mean I will stop the project after merging it. Sha
 That's it for today. Don't forget to try and leave a star for Sharn by visiting [https://github.com/nedpals/sharn](https://github.com/nedpals/sharn) and if you have problems, please file an issue.
 
 **Update: Fixed image loading and formatting**
+**Update 2: Messed up my edits**
