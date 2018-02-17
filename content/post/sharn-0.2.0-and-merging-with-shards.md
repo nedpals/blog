@@ -6,7 +6,7 @@ tags = ["crystal", "programming", "software", "announcement", "sharn"]
 title = "Sharn 0.2.0"
 
 +++
-{{< figure src="/images/uploads/Screenshot from 2018-02-05 20-49-18.png" >}}
+!()[/images/uploads/Screenshot from 2018-02-05 20-49-18.png]
 
 Hello guys! I am back for another blog post about Sharn - my first open source project written in Crystal, talking about it's first ever stable release and a good news to all of you.
 
