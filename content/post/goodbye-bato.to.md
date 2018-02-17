@@ -14,6 +14,6 @@ I remembered the first time I visited it, I was shocked by it's wide catalog of 
 
 It's very hard to manage the site actually. Considering the amount of problems everyday (bots, DDoS, etc.) it sure is a never-ending stress and I understand that. I think it would have been great if it being archived instead using [IPFS](https://ipfs.org) so that it would never have to been shut down. Truly, Bato.to is a great site and the users of it will never forget it's contribution to the weeabooism/otaku fandom.   
 
-!()[https://media.giphy.com/media/j2wL7g5E2BoPe/source.gif]
+![](https://media.giphy.com/media/j2wL7g5E2BoPe/source.gif)
 
 So long, my friend.
