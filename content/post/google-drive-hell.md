@@ -6,7 +6,7 @@ tags = ["google drive", "rant"]
 title = "Google Drive Hell"
 
 +++
-!()[/images/uploads/PicsArt_12-28-04.19.29.jpg]
+![](/images/uploads/PicsArt_12-28-04.19.29.jpg]
 
 Right now, I'm using Ubuntu as my daily driver for my laptop which happens to be its fifth year today since I bought it. Everything's really really fine including casual browsing except when I entered Google Drive. GDrive is very unresponsive as hell making my laptop unusable for a minute and a half. When you do something in there, it will take you another five seconds to complete or to just move. Also the app loads in just two minutes under a 900kbps connection. **Seriously, this is very annoying as hell.**
 
