@@ -6,6 +6,7 @@ pages:
 - post/code-achievements.md
 - post/making-a-manga.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Title
