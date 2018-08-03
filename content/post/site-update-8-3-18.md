@@ -20,7 +20,7 @@ Since I got into freelance (and eventually became a part-time employee at my com
 
 {{< figure src="/images/uploads/IMG_20180803_220131_HHT.jpg" caption="An ugly photo of my Mi Notebook Pro xD" >}}
 
-A month earlier, I was planning to buy a new laptop for my school and work but because of freelancing I had been able to buy a new laptop. My new laptop was the **Xiaomi Mi Notebook Pro** and I have been eyeing for this beast for a while before I bought it and it was definitely worth it. I am planning to do a review some time in the future.
+A month earlier, I was planning to buy a new laptop for my school and work but because of freelancing I have been able it with my own money. My new laptop was the **Xiaomi Mi Notebook Pro** and I have been eyeing for this beast for a while before I bought it and it was definitely worth it. I am planning to do a review some time in the future.
 
 Fun fact: I almost bought the outdated-yet-labeled-as-updated Macbook Air but because of the ugly screen and no huge improvements at all, I scrapped it.
 
