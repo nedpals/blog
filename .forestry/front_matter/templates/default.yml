@@ -1,10 +1,5 @@
 ---
-pages:
-- post/goodbye-bato.to.md
-- post/google-drive-hell.md
-- post/sharn-0.2.0-and-merging-with-shards.md
-- post/code-achievements.md
-- post/making-a-manga.md
+label: default
 hide_body: false
 is_partial: false
 fields:
@@ -28,3 +23,9 @@ fields:
 - type: file
   label: Featured image
   name: featureimage
+pages:
+- content/post/code-achievements.md
+- content/post/google-drive-hell.md
+- content/post/goodbye-bato.to.md
+- content/post/making-a-manga.md
+- content/post/sharn-0.2.0-and-merging-with-shards.md

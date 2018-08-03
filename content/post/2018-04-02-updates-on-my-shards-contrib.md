@@ -1,6 +1,6 @@
 ---
 title: Rethinking Sharn
-date: 2018-04-02 18:05:53 +0800
+date: 2018-04-02 10:05:53 +0000
 category:
 - tech
 - and more
@@ -11,6 +11,7 @@ tags:
 - programming
 - sharn
 - software
+draft: true
 
 ---
 Hello. Welcome back again to my blog. There's a lot of things happened since my last post. I completed my junior high, I had a part-time job as a WordPress theme developer (still a thing), and... I haven't made any improvements to Sharn. Wait what.
