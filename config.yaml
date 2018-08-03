@@ -1,5 +1,5 @@
 ---
-baseURL: https://thisis.nedpals.xyz/
+baseURL: https://nedpals-blog.netlify.com/
 languageCode: en-us
 title: neds blog
 theme: hugo-type-theme
