@@ -1,7 +1,7 @@
 +++
 category = []
 date = "2018-08-03T00:00:00+08:00"
-featureimage = ""
+featureimage = "/images/uploads/tracy-thomas-56810-unsplash.jpg"
 tags = []
 title = "Importance of MIL"
 
