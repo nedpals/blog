@@ -1,7 +1,7 @@
 +++
 category = []
 date = "2018-08-03T00:00:00+08:00"
-featureimage = "/content/uploads/elijah-o-donell-603766-unsplash.jpg"
+featureimage = "/images/uploads/elijah-o-donell-603766-unsplash.jpg"
 tags = []
 title = "Importance of MIL"
 
