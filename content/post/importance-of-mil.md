@@ -7,6 +7,16 @@ tags = []
 title = "Importance of MIL"
 
 +++
-Media and Information Literacy or commonly known as MIL is one of the basic subjects you'll get when you reach Grade 11 as part of the K-12 curriculum in order for students to be trained and be disciplined in using not just the social media but also other forms of traditional media such as broadcast and print. But why should we give importance to this subject?
+In the modern era, the way society turns events has become more and more powerful in just one click. What takes years to have a revolution back then can now be done again in just a few hours due to the new forms of media, such as the internet. It may be a good thing but behind it holds the destructive and negative effects. Scary, and destructive for it might misinform people, leading to a crisis, that may also lead into something much worse: dividing the nation that once has been peaceful. That's why, knowing how to utilize media properly and responsibly is one of the keys in order for you to know the real story behind something, without damaging your whole being as a citizen of the country.
 
-In the modern era, the way society turns events has becoming more and more powerful in just a click of a button. On what it takes years to have a revolution back in the old days can be easily done again within just hours due to the widespread usage of new forms of media such as the internet. It may seemingly a good thing but behind it are the destructive negative effects it holds. Those negative effects are really really scary. It might misinform the people leading to a crisis, might tricked you, or even worse, might divide the nation that once been peaceful. That's why knowing how to use and consume media properly and responsibly is one of the key effective ways in order for you to know the real story without damaging being a citizen of the country.
+Being media and information literate is more than just properly consuming information in media. As we all know, media influenced our entire lives and by having this skill could develop our personalities particularly the morals correctly even if it is too late. Media and Information Literacy helps us also develop our critical thinking skills as well as learning the truth. It also deepens your knowledge about anything around you and by being open to other people.
+
+When we hear the word "literacy" we always connected it of having the knowledge to write and speak fluently but it isn't just about that. Today, being literate in Media and Information plays a huge role to our society. By using them properly, we could help spread awareness as well as teach the young generations of today that not all information on the internet are true and we must strive to find the truth for the betterment not just for ourselves but also for our country.
+
+### Images
+
+### Sources
+
+[Quora]()
+
+[MediaLit](https://www.medialit.org/reading-room/10-benefits-media-literacy-education)
