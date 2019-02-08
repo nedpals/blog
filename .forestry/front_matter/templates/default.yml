@@ -24,11 +24,11 @@ fields:
   label: Featured image
   name: featureimage
 pages:
-- content/post/domain-is-back-and-a-lesson-to-users-of-paymaya.md
-- content/post/importance-of-mil.md
+- content/post/code-achievements.md
 - content/post/site-update-8-3-18.md
 - content/post/google-drive-hell.md
-- content/post/making-a-manga.md
+- content/post/importance-of-mil.md
+- content/post/domain-is-back-and-a-lesson-to-users-of-paymaya.md
 - content/post/goodbye-bato.to.md
-- content/post/code-achievements.md
+- content/post/making-a-manga.md
 - content/post/sharn-0.2.0-and-merging-with-shards.md
